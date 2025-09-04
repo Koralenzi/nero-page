@@ -3,8 +3,8 @@
 /* ========== */
 
 body {
-    font-family: 'Inter', sans-serif;
-    color: #495057;
-    border-top: 8px solid #000;
-    border-bottom: 8px solid #000;
+	font-family: "Inter", sans-serif;
+	color: #495057;
+	/* border-top: 8px solid #000; */
+	/* border-bottom: 8px solid #000;  */
 }

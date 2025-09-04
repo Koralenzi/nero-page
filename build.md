@@ -35,3 +35,9 @@ Reprehenderit optio placeat quasi excepturi architecto, explicabo facilis perspi
 Ethical and sustainable
 
 Deleniti recusandae quidem nesciunt, eos dolorum iure, quaerat omnis est laudantium voluptatem voluptas!
+
+# Colors
+
+main - #000
+secondary - #04090D
+buttons - #05080D
